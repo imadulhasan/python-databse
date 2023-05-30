@@ -1,4 +1,4 @@
-from turtle import * 
+from turtle import * #
 speed('slowest')
 
 fd(100)
@@ -16,3 +16,4 @@ rt()
 
 
 mainloop()
+
